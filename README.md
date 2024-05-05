@@ -59,4 +59,5 @@ endmodule
 ![image](https://github.com/SJananisenthilkumar/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/144871139/cf16ffba-737d-4f81-8417-4780b8ceb4f9)
 
 **RESULTS**
+
 Thus the Serial-in-Serial-out Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
